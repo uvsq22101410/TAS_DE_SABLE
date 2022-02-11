@@ -1,2 +1,2 @@
 # TAS_DE_SABLE
-Projet 1 Inès Maud et Jessica
+Projet sur la simulation de l'écoulement d'un tas de sable 
